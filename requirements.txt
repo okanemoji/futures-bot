@@ -1,5 +1,0 @@
-Flask
-python-binance
-python-dotenv
-gspread
-gunicorn
